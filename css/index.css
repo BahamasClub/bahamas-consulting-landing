@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&family=Roboto+Slab:wght@400;700&display=swap");
+
+@import "palette.css";
+@import "typography.css";
+@import "containers.css";
+@import "button.css";
+@import "logo.css";
+@import "navbar.css";
+@import "cards.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
